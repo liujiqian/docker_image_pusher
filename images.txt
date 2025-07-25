@@ -8,8 +8,8 @@
 
 ghcr.io/huggingface/text-embeddings-inference:cpu-1.6
 ghcr.io/huggingface/text-generation-inference:2.4.0-intel-cpu
-${REGISTRY:-opea}/embedding:1.3
-${REGISTRY:-opea}/web-retriever:1.3
-${REGISTRY:-opea}/reranking:1.3
-${REGISTRY:-opea}/llm-textgen:1.3
-${REGISTRY:-opea}/searchqna:1.3
+opea/embedding:1.3
+opea/web-retriever:1.3
+opea/reranking:1.3
+opea/llm-textgen:1.3
+opea/searchqna:1.3
