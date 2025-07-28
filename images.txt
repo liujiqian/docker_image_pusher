@@ -12,13 +12,13 @@
 #opea/web-retriever:1.3
 #opea/reranking:1.3
 #opea/llm-textgen:1.3
-opea/searchqna-ui:latest
-opea/searchqna:latest
+#opea/searchqna-ui:latest
+#opea/searchqna:latest
 
 #valkey/valkey:8-alpine
 #searxng/searxng:latest
 
 #DBQNA
-#postgres:latest
-#${REGISTRY:-opea}/text2sql:${TAG:-latest}
-#${REGISTRY:-opea}/text2sql-react-ui:${TAG:-latest}
+postgres:latest
+opea/text2sql:latest
+opea/text2sql-react-ui:latest
