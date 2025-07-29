@@ -20,6 +20,6 @@ opea/nginx:1.3
 #searxng/searxng:latest
 
 #DBQNA
-postgres:latest
-opea/text2sql:latest
-opea/text2sql-react-ui:latest
+#postgres:latest
+#opea/text2sql:latest
+#opea/text2sql-react-ui:latest
