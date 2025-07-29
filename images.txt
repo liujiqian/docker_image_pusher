@@ -14,7 +14,9 @@
 #opea/llm-textgen:1.3
 #opea/searchqna-ui:latest
 #opea/searchqna:latest
-opea/nginx:1.3
+#opea/nginx:1.3
+opea/searchqna-ui:1.3
+opea/searchqna:1.3
 
 #valkey/valkey:8-alpine
 #searxng/searxng:latest
