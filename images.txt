@@ -21,9 +21,10 @@
 #valkey/valkey:8-alpine
 #searxng/searxng:latest
 
-tanghongb/web-retriever:1.3
+#tanghongb/web-retriever:1.3
 
 #DBQNA
 #postgres:latest
 #opea/text2sql:latest
 #opea/text2sql-react-ui:latest
+tanghongb/text2sql-react-ui:latest
