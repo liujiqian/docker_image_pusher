@@ -27,4 +27,4 @@
 #postgres:latest
 #opea/text2sql:latest
 #opea/text2sql-react-ui:latest
-tanghongb/text2sql-react-ui:latest
+tanghongb/text2sql-react-ui:1.3
