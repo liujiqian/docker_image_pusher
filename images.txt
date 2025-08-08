@@ -27,4 +27,13 @@
 #postgres:latest
 #opea/text2sql:latest
 #opea/text2sql-react-ui:latest
-tanghongb/text2sql-react-ui:1.3
+#tanghongb/text2sql-react-ui:1.3
+
+#FinanceAgent
+opea/agent:latest
+opea/llm-docsum:latest
+opea/agent-ui:latest
+ghcr.io/huggingface/text-embeddings-inference:cpu-1.5
+redis/redis-stack:7.2.0-v9
+opea/dataprep:latest
+opea/vllm-gaudi:TAG:-latest
