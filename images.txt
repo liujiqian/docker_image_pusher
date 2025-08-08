@@ -21,9 +21,9 @@
 #valkey/valkey:8-alpine
 #searxng/searxng:latest
 
-#tanghongb/web-retriever:1.3
+tanghongb/web-retriever:1.3
 
-searxng/searxng:2025.6.10-8888d71
+#searxng/searxng:2025.6.10-8888d71
 
 #DBQNA
 #postgres:latest
