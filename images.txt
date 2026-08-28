@@ -1,2 +1,4 @@
-python:3.12-slim
-ghcr.io/abhigyanpatwari/gitnexus:latest
+#python:3.12-slim
+#ghcr.io/abhigyanpatwari/gitnexus:latest
+node:20-alpine
+nginx:1.27-alpine
